@@ -91,13 +91,13 @@ export default function LandingPage() {
         <FeatureCardThree
           features={[
             {
-              title: "Sito Web Professionale \"Pronto all'Uso\"",              description: "Realizziamo un sito professionale completo, dal design alla pubblicazione, già pronto per la tua attività. Non devi preoccuparti di nulla, pensiamo a tutto noi.",              imageSrc: "http://img.b2bpic.net/free-photo/notebook-with-words-digital-marketing_1134-436.jpg"
+              title: "Sito Web Professionale \"Pronto all'Uso\"",              description: "Realizziamo un sito professionale completo, dal design alla pubblicazione, già pronto per la tua attività. Non devi preoccuparti di nulla, pensiamo a tutto noi.",              imageSrc: "http://img.b2bpic.net/free-photo/notebook-with-words-digital-marketing_1134-436.jpg?_wi=1"
             },
             {
-              title: "Ottimizzato per Smartphone e Veloce",              description: "Ogni sito è progettato per essere impeccabile su ogni dispositivo mobile, garantendo velocità di caricamento e un'esperienza utente fluida. Includiamo foto, contatti chiari e un modulo richieste intuitivo.",              imageSrc: "http://img.b2bpic.net/free-photo/notebook-with-words-digital-marketing_1134-436.jpg"
+              title: "Ottimizzato per Smartphone e Veloce",              description: "Ogni sito è progettato per essere impeccabile su ogni dispositivo mobile, garantendo velocità di caricamento e un'esperienza utente fluida. Includiamo foto, contatti chiari e un modulo richieste intuitivo.",              imageSrc: "http://img.b2bpic.net/free-photo/notebook-with-words-digital-marketing_1134-436.jpg?_wi=2"
             },
             {
-              title: "Di Tua Proprietà, Senza Canoni Mensili",              description: "Il sito viene pubblicato a tuo nome e sarà di tua proprietà al 100%. Dimentica i canoni mensili nascosti: un unico investimento per una presenza online duratura e senza pensieri.",              imageSrc: "http://img.b2bpic.net/free-photo/notebook-with-words-digital-marketing_1134-436.jpg"
+              title: "Di Tua Proprietà, Senza Canoni Mensili",              description: "Il sito viene pubblicato a tuo nome e sarà di tua proprietà al 100%. Dimentica i canoni mensili nascosti: un unico investimento per una presenza online duratura e senza pensieri.",              imageSrc: "http://img.b2bpic.net/free-photo/notebook-with-words-digital-marketing_1134-436.jpg?_wi=3"
             }
           ]}
           gridVariant="three-columns-all-equal-width"
